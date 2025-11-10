@@ -231,4 +231,13 @@ npm test
 ```
 ```
 
+![output1](https://github.com/user-attachments/assets/e0294df0-a778-4da4-87be-fd157c16d3f9)
+![output2](https://github.com/user-attachments/assets/0d5c2758-61cd-47af-b930-d6a9dc652eae)
+![output3](https://github.com/user-attachments/assets/eb9fcefc-d68d-4037-bb7c-a567b9ef1588)
+![output4](https://github.com/user-attachments/assets/26311647-6aae-4625-9a64-797da2511bfa)
+
+
+
+
+
 
