@@ -1,0 +1,11 @@
+body {
+  @apply bg-[#0B0F1A] text-gray-100 font-inter;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+  border-radius: 10px;
+}
